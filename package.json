@@ -1,0 +1,15 @@
+{
+  "name": "@sbrow/tokenize",
+  "version": "1.0.0",
+  "description": "A CLI wrapper for gpt-3-encoder",
+  "main": "index.js",
+  "repository": "https://github.com/sbrow/gpt-3-encoder",
+  "author": "Spencer Brower",
+  "license": "MIT",
+  "bin": {
+    "tokenize": "index.js"
+  },
+  "dependencies": {
+    "gpt-3-encoder": "^1.1.3"
+  }
+}
