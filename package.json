@@ -1,6 +1,6 @@
 {
   "name": "@sbrow/tokenize",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A CLI wrapper for gpt-3-encoder",
   "main": "index.js",
   "repository": "https://github.com/sbrow/gpt-3-encoder",
@@ -10,6 +10,7 @@
     "tokenize": "index.js"
   },
   "dependencies": {
-    "gpt-3-encoder": "^1.1.3"
+    "gpt-3-encoder": "^1.1.3",
+    "ramda": "^0.28.0"
   }
 }
